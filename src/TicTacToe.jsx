@@ -62,7 +62,7 @@ export default function TicTacToe() {
 
                 return;
             }
-        }
+        } 
 
         if (updatedMoveCount === 9) {
             setGameResult("Draw");
